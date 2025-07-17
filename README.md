@@ -221,6 +221,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 ## 📁 Project Structure
 
+```
 voice-to-search/
 ├── api.py                   # Main Flask API
 ├── app.py                   # Streamlit alternative UI
@@ -247,6 +248,7 @@ voice-to-search/
     │   ├── api.ts
     │   └── components/
     └── public/
+```
 
 ---
 
