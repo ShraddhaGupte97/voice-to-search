@@ -15,10 +15,7 @@ A voice-powered search application for content recommendation that combines natu
 
 ## 📸 Demo
 
-<video width="100%" controls>
-  <source src="demo/demo_video.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+[▶️ Watch Demo Video](demo/demo_video.mov)
 
 ---
 
