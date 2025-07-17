@@ -1,4 +1,4 @@
-# 🎙️ Voice Search System
+# 🎙️ Voice to Search System
 
 A voice-powered search application for content recommendation that combines natural language processing, semantic search, and voice recognition to help users find their perfect movie or TV show.
 
