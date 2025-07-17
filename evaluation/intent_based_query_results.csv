@@ -1,0 +1,151 @@
+query,hit_rate,hit_count,top_results
+"I'm bored, do you have something funny and short?",1.0,5,"R 1. ADAM SANDLER 100% FRESH
+R 2. Jack Whitehall: I'm Only Joking
+R 3. I'm Brent Morin
+R 4. Jimmy Carr: Funny Business
+R 5. Mike Birbiglia: My Girlfriend's Boyfriend"
+Any romantic movies from India I can watch tonight?,1.0,5,"R 1. Next Enti?
+R 2. Bombay Rose
+R 3. Krishna Cottage
+R 4. World Famous Lover
+R 5. Kacche Dhaagey"
+Can you recommend a good one-season crime show?,1.0,5,"R 1. American Crime
+R 2. Criminal Minds
+R 3. Exhibit A
+R 4. The Confession Tapes
+R 5. The Investigator: A British Crime Story"
+I’m in the mood for a feel-good movie under an hour.,1.0,5,"R 1. Sam Kinison: Family Entertainment Hour
+R 2. Jack Whitehall: I'm Only Joking
+R 3. Anthony Jeselnik: Thoughts and Prayers
+R 4. Amy Schumer: The Leather Special
+R 5. Brian Regan: On the Rocks"
+Something scary and intense would be perfect right now.,1.0,5,"R 1. Haunters: The Art of the Scare
+R 2. Demonic
+R 3. The Darkness
+R 4. Creep 2
+R 5. We Summon the Darkness"
+Got any animated movies for kids?,0.8,4,"R 1. The Karate Kid
+R 2. DreamWorks Holiday Classics
+R 3. The Adventure Club
+W 4. Beowulf
+R 5. Fukrey Boyzzz"
+I'm in for a mystery drama with some plot twists.,0.4,2,"W 1. Chosen
+R 2. American Horror Story
+R 3. Secret City
+W 4. Shot in the Dark
+W 5. Creeped Out"
+What about a nice romantic comedy?,1.0,5,"R 1. The New Romantic
+R 2. Valentine's Day
+R 3. Equals
+R 4. My Perfect Romance
+R 5. Holidate"
+I want to watch a sci-fi movie with space travel.,1.0,5,"R 1. 3022
+R 2. IO
+R 3. Space Cowboys
+R 4. Incoming
+R 5. Alien Warfare"
+I'm into historical war dramas lately. Got one?,1.0,5,"R 1. The War: A Film by Ken Burns and Lynn Novick
+R 2. War Machine
+R 3. War on Everyone
+R 4. The Art of War
+R 5. Wartime Portraits"
+Any good nature documentaries?,1.0,5,"R 1. National Parks Adventure
+R 2. Terra
+R 3. David Attenborough: A Life on Our Planet
+R 4. Expedition China
+R 5. Have a Good Trip: Adventures in Psychedelics"
+I just want something lighthearted to relax with.,1.0,5,"R 1. Have a Good Trip: Adventures in Psychedelics
+R 2. Valentine's Day
+R 3. My Perfect Romance
+R 4. We Need to Talk
+R 5. Sleepover"
+Can you suggest a sports-themed movie or show?,1.0,5,"R 1. At All Costs
+R 2. Pocoyo Special Sports
+R 3. Concrete Football
+R 4. Rising Phoenix
+R 5. BASEketball"
+I feel like watching something set in prison.,0.4,2,"W 1. Girls Incarcerated
+R 2. Inside the World’s Toughest Prisons
+W 3. Inside the Criminal Mind
+R 4. Survivors Guide to Prison
+W 5. The Detained"
+Do you have any Shah Rukh Khan movies?,1.0,5,"R 1. Duplicate
+R 2. Kal Ho Naa Ho
+R 3. Chennai Express
+R 4. Don 2
+R 5. Ram Jaane"
+Is there a short horror film I can watch?,1.0,5,"R 1. XX
+R 2. Demonic
+R 3. Thriller
+R 4. A Classic Horror Story
+R 5. Horror Story"
+I'm in the mood for something musical — film or show.,1.0,5,"R 1. Dolly Parton: A MusiCares Tribute
+R 2. Rock the Kasbah
+R 3. What We Started
+R 4. Roots
+R 5. Dolly Parton’s Christmas on the Square"
+I love biopics or true stories. Anything like that?,0.6,3,"W 1. Have a Good Trip: Adventures in Psychedelics
+R 2. True: Terrific Tales
+R 3. Evolution
+R 4. Tales From the Hood 2
+W 5. A StoryBots Space Adventure"
+Can I get an action-packed thriller?,1.0,5,"R 1. Inception
+R 2. Good People
+R 3. The Hateful Eight
+R 4. Cave
+R 5. Congo"
+I want something dark and psychological tonight.,0.6,3,"W 1. We Summon the Darkness
+W 2. Midnight Special
+R 3. Midnight Sun
+R 4. Deep
+R 5. Dark Light"
+I want to watch something with doctors. It should be set in Seattle.,0.6,3,"W 1. Private Practice
+R 2. Grey's Anatomy
+R 3. Wake Up
+R 4. Chicago Med
+W 5. Royal Pains"
+I'm curious about the psychology behind murderers. Got anything like that?,0.8,4,"R 1. Nurses Who Kill
+R 2. Inside the Mind of a Serial Killer
+R 3. Harold Shipman - Driven to Kill
+R 4. Criminal Minds
+W 5. Rememory"
+Can you suggest a show about lawyers or courtroom drama?,1.0,5,"R 1. Justice in the City
+R 2. The Family Court
+R 3. Sudden
+R 4. American Crime Story: The People v. O.J. Simpson
+R 5. American Crime"
+Is there a documentary on cults or strange communities?,1.0,5,"R 1. Children of God
+R 2. Holy Hell
+R 3. The Last Shaman
+R 4. History's Greatest Hoaxes
+R 5. Social Animals"
+I feel like watching something about space exploration.,1.0,5,"R 1. The Space Between Us
+R 2. IO
+R 3. Dark Matter
+R 4. Knowing
+R 5. 2036 Origin Unknown"
+Any lighthearted teen romance shows?,0.8,4,"W 1. Best.Worst.Weekend.Ever.
+R 2. Love Daily
+R 3. Summer Night
+R 4. I Need Romance
+R 5. All The Bright Places"
+Do you have something based on true crimes?,1.0,5,"R 1. Inside the Criminal Mind
+R 2. The Confession Tapes
+R 3. Trial By Media
+R 4. Criminal Minds
+R 5. A Perfect Crime"
+I'd love a political drama with some conspiracy involved.,0.6,3,"R 1. Conspiracy
+W 2. The Great Hack
+R 3. Scandal
+W 4. Prank Encounters
+R 5. Messiah"
+Can I get a travel show about unique places in the world?,0.2,1,"W 1. The World's Most Amazing Vacation Rentals
+R 2. The Calling
+W 3. Amazing Interiors
+W 4. Win the Wilderness
+W 5. Weird Wonders of the World"
+I want something about sibling rivalry or complicated families.,1.0,5,"R 1. The Family
+R 2. A Family Affair
+R 3. Entangled
+R 4. Kapoor & Sons
+R 5. Love Family"

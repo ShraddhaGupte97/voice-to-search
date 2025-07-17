@@ -1,0 +1,16 @@
+pandas==2.0.3
+numpy>=1.26.0
+nltk
+faiss-cpu==1.7.4
+sentence-transformers
+openai==0.28.1
+python-dotenv  # Optional, if you want to manage API keys securely
+streamlit==1.28.1           # For UI
+matplotlib          # For plotting evaluation results
+ipykernel           # If running in Jupyter
+SpeechRecognition==3.10.0
+sounddevice
+scipy
+flask==2.3.3
+flask-cors==4.0.0
+pydub
