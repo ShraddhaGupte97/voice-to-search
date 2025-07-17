@@ -15,7 +15,7 @@ A voice-powered search application for content recommendation that combines natu
 
 ## 📸 Demo
 
-[▶️ Watch Demo Video](demo/demo_video.mov)
+[▶️ Watch Demo Video](demo/)
 
 ---
 
